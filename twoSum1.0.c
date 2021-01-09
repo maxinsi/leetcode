@@ -5,7 +5,7 @@
  */
 
 /*
-* 使用两遍for循环暴力求解
+* Use two for loops to solve violently
 */
 int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
 	
